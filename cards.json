@@ -44,7 +44,8 @@
      "cap": 5000,
      "tier": 2
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kb-goodday.png"
   },
   {
    "id": "shinhan-mr-life",
@@ -94,7 +95,8 @@
      "cap": 3000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/shinhan-mr-life.png"
   },
   {
    "id": "toss-bank-check",
@@ -122,7 +124,8 @@
      "cap": null,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/toss-bank-check.png"
   },
   {
    "id": "kg-mobil-card",
@@ -168,7 +171,8 @@
      "cap": null,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kg-mobil-card.png"
   },
   {
    "id": "lotte-loca-365",
@@ -207,7 +211,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/lotte-loca-365.png"
   },
   {
    "id": "hana-travelog-check",
@@ -226,7 +231,8 @@
      "cap": null,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/hana-travelog-check.png"
   },
   {
    "id": "kb-nori2-check-kbpay",
@@ -275,7 +281,8 @@
      "cap": 2000,
      "tier": 2
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kb-nori2-check-kbpay.png"
   },
   {
    "id": "kb-nori2-check-global",
@@ -324,7 +331,8 @@
      "cap": 5000,
      "tier": 2
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kb-nori2-check-global.png"
   },
   {
    "id": "naverpay-money-hana-check",
@@ -345,7 +353,8 @@
      "cap": 10000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/naverpay-money-hana-check.png"
   },
   {
    "id": "kb-my-wesh",
@@ -394,7 +403,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kb-my-wesh.png"
   },
   {
    "id": "epost-gaeideuk-check",
@@ -433,7 +443,8 @@
      "cap": 10000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/epost-gaeideuk-check.png"
   },
   {
    "id": "ibk-kpass-credit",
@@ -473,7 +484,8 @@
      "cap": 10000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/ibk-kpass-credit.png"
   },
   {
    "id": "nh-kpass-check",
@@ -522,7 +534,8 @@
      "cap": 1000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/nh-kpass-check.png"
   },
   {
    "id": "woori-oha-check",
@@ -570,7 +583,8 @@
      "cap": 2000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/woori-oha-check.png"
   },
   {
    "id": "naverpay-money-card",
@@ -607,7 +621,8 @@
      "cap": null,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/naverpay-money-card.png"
   },
   {
    "id": "hana-jade-classic",
@@ -655,7 +670,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/hana-jade-classic.png"
   },
   {
    "id": "hyundai-amex-gold-edition2",
@@ -686,7 +702,8 @@
      "cap": null,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/hyundai-amex-gold-edition2.png"
   },
   {
    "id": "shinhan-sol-travel-check",
@@ -726,7 +743,8 @@
      "cap": 3000,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/shinhan-sol-travel-check.png"
   },
   {
    "id": "kpass-shinhan-check",
@@ -778,7 +796,8 @@
      "cap": 2000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kpass-shinhan-check.png"
   },
   {
    "id": "hyundai-koreanair-300",
@@ -809,7 +828,8 @@
      "cap": null,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/hyundai-koreanair-300.png"
   },
   {
    "id": "hyundai-koreanair-first-edition2",
@@ -848,7 +868,8 @@
      "cap": null,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/hyundai-koreanair-first-edition2.png"
   },
   {
    "id": "kbank-one-check",
@@ -888,7 +909,8 @@
      "cap": 25000,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kbank-one-check.png"
   },
   {
    "id": "shinhan-cheoeum-anniverse",
@@ -942,7 +964,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/shinhan-cheoeum-anniverse.png"
   },
   {
    "id": "shinhan-deep-dream-check",
@@ -975,7 +998,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/shinhan-deep-dream-check.png"
   },
   {
    "id": "shinhan-discount-plan-plus",
@@ -1028,7 +1052,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/shinhan-discount-plan-plus.png"
   },
   {
    "id": "classy-travel-card",
@@ -1058,7 +1083,8 @@
      "cap": 100000,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/classy-travel-card.png"
   },
   {
    "id": "kb-teenup-check-card",
@@ -1107,7 +1133,8 @@
      "cap": 3000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kb-teenup-check-card.png"
   },
   {
    "id": "alphabet-card-d",
@@ -1140,7 +1167,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/alphabet-card-d.png"
   },
   {
    "id": "alphabet-card-s",
@@ -1174,7 +1202,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/alphabet-card-s.png"
   },
   {
    "id": "samsung-id-select-all",
@@ -1226,7 +1255,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/samsung-id-select-all.png"
   },
   {
    "id": "samsung-id-select-on",
@@ -1276,7 +1306,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/samsung-id-select-on.png"
   },
   {
    "id": "the-id-1st",
@@ -1318,7 +1349,8 @@
      "cap": null,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/the-id-1st.png"
   },
   {
    "id": "kb-youth-club-check-card",
@@ -1366,7 +1398,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kb-youth-club-check-card.png"
   },
   {
    "id": "kb-you-prime-card",
@@ -1415,7 +1448,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kb-you-prime-card.png"
   },
   {
    "id": "hana-narasarang-card",
@@ -1463,7 +1497,8 @@
      "cap": 2000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/hana-narasarang-card.png"
   },
   {
    "id": "kb-need-pay-card",
@@ -1512,7 +1547,8 @@
      "cap": null,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kb-need-pay-card.png"
   },
   {
    "id": "alphabet-card-b",
@@ -1545,7 +1581,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/alphabet-card-b.png"
   },
   {
    "id": "alphabet-card-r",
@@ -1579,7 +1616,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/alphabet-card-r.png"
   },
   {
    "id": "kb-you-wish",
@@ -1628,7 +1666,8 @@
      "cap": null,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kb-you-wish.png"
   },
   {
    "id": "loca-likit-1-5",
@@ -1656,7 +1695,8 @@
      "cap": null,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/loca-likit-1-5.png"
   },
   {
    "id": "jeongseok-2-super",
@@ -1676,7 +1716,8 @@
      "cap": 100000,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/jeongseok-2-super.png"
   },
   {
    "id": "samsung-id-select-up",
@@ -1728,7 +1769,8 @@
      "cap": 7000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/samsung-id-select-up.png"
   },
   {
    "id": "loca-likit-2-0",
@@ -1756,7 +1798,8 @@
      "cap": null,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/loca-likit-2-0.png"
   },
   {
    "id": "shinhan-deep-oil",
@@ -1805,7 +1848,8 @@
      "cap": 7500,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/shinhan-deep-oil.png"
   },
   {
    "id": "kakaobank-friends-check",
@@ -1824,7 +1868,8 @@
      "cap": null,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/kakaobank-friends-check.png"
   },
   {
    "id": "samsung-mileage-platinum-skypass",
@@ -1855,7 +1900,8 @@
      "cap": null,
      "tier": 0
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/samsung-mileage-platinum-skypass.png"
   },
   {
    "id": "samsung-taptap-o",
@@ -1904,7 +1950,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/samsung-taptap-o.png"
   },
   {
    "id": "olbareun-flex",
@@ -1954,7 +2001,8 @@
      "cap": 5000,
      "tier": 1
     }
-   ]
+   ],
+   "image": "https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/olbareun-flex.png"
   }
  ]
 }

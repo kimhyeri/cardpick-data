@@ -49,6 +49,8 @@ def main():
             'corp_color': (corp or {}).get('color'),
             'kind': kind,
             'pre_month_money': d.get('pre_month_money'),
+            'card_img': (lambda img: img.get('url') if isinstance(img, dict) else None)(
+                json.loads(d['card_img']) if isinstance(d.get('card_img'), str) else d.get('card_img')),
             'annual_fee': d.get('annual_fee_basic'),
             'benefits': [
                 {'cate': (b.get('cate') or {}).get('name'),

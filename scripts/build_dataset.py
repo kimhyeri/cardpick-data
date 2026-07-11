@@ -23,11 +23,17 @@ def main():
                     and b['type'] in VALID_TYPES and 0 < b['rate'] <= 100]
             if not bens:
                 continue
-            cards.append({
+            card = {
                 'id': c['id'], 'name': c['name'], 'issuer': c['issuer'],
                 'color': c.get('color') or '#1E293B', 'kind': c['kind'],
                 'tiers': c.get('tiers', []), 'benefits': bens[:4],
-            })
+            }
+            # 이미지는 images/에 미리 받아둔 파일을 raw URL로 참조
+            for ext in ('.png', '.jpg'):
+                if glob.glob(f"images/{c['id']}{ext}"):
+                    card['image'] = f"https://raw.githubusercontent.com/kimhyeri/cardpick-data/main/images/{c['id']}{ext}"
+                    break
+            cards.append(card)
 
     payload = {'version': 1, 'updated_at': datetime.date.today().isoformat(), 'cards': cards}
     with open('cards.json', 'w') as f:
