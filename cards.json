@@ -1,0 +1,1960 @@
+{
+ "version": 1,
+ "updated_at": "2026-07-11",
+ "cards": [
+  {
+   "id": "kb-goodday",
+   "name": "굿데이카드",
+   "issuer": "KB국민카드",
+   "color": "#FFC800",
+   "kind": "credit",
+   "tiers": [
+    300000,
+    600000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 3000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "transit",
+      "taxi"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "dining",
+      "cafe",
+      "convenience",
+      "medical"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 2
+    }
+   ]
+  },
+  {
+   "id": "shinhan-mr-life",
+   "name": "신한카드 Mr.Life",
+   "issuer": "신한카드",
+   "color": "#2252FF",
+   "kind": "credit",
+   "tiers": [
+    300000,
+    500000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "dining",
+      "cafe"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "grocery"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 3000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "toss-bank-check",
+   "name": "토스뱅크 체크카드",
+   "issuer": "토스뱅크",
+   "color": "#1E293B",
+   "kind": "check",
+   "tiers": [],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "cashback",
+     "rate": 0.3,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "overseas"
+     ],
+     "type": "cashback",
+     "rate": 2,
+     "cap": null,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "kg-mobil-card",
+   "name": "모빌카드",
+   "issuer": "KG 파이낸셜",
+   "color": "#1E293B",
+   "kind": "check",
+   "tiers": [],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 0.5,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "point",
+     "rate": 1,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "convenience"
+     ],
+     "type": "point",
+     "rate": 2,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "cafe"
+     ],
+     "type": "point",
+     "rate": 2,
+     "cap": null,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "lotte-loca-365",
+   "name": "LOCA 365 카드",
+   "issuer": "롯데카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    500000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "transit"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "dining"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "hana-travelog-check",
+   "name": "트래블로그 체크카드",
+   "issuer": "하나카드",
+   "color": "#1E293B",
+   "kind": "check",
+   "tiers": [],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 0.3,
+     "cap": null,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "kb-nori2-check-kbpay",
+   "name": "노리2 체크카드(KB Pay)",
+   "issuer": "KB국민카드",
+   "color": "#FFC800",
+   "kind": "check",
+   "tiers": [
+    200000,
+    300000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "cafe"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 3000,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 2000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "culture"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 7000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "discount",
+     "rate": 2,
+     "cap": 2000,
+     "tier": 2
+    }
+   ]
+  },
+  {
+   "id": "kb-nori2-check-global",
+   "name": "노리2 체크카드(Global)",
+   "issuer": "KB국민카드",
+   "color": "#FFC800",
+   "kind": "check",
+   "tiers": [
+    200000,
+    300000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "cafe"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 3000,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 2000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "culture"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 7000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "overseas"
+     ],
+     "type": "discount",
+     "rate": 2,
+     "cap": 5000,
+     "tier": 2
+    }
+   ]
+  },
+  {
+   "id": "naverpay-money-hana-check",
+   "name": "네이버페이 머니 하나 체크카드",
+   "issuer": "하나카드",
+   "color": "#1E293B",
+   "kind": "check",
+   "tiers": [
+    250000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 1.2,
+     "cap": 10000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "kb-my-wesh",
+   "name": "KB국민 My WE:SH 카드",
+   "issuer": "KB국민카드",
+   "color": "#FFC800",
+   "kind": "credit",
+   "tiers": [
+    400000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "dining",
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "subscription"
+     ],
+     "type": "discount",
+     "rate": 30,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "epost-gaeideuk-check",
+   "name": "개이득 체크카드",
+   "issuer": "우체국",
+   "color": "#1E293B",
+   "kind": "check",
+   "tiers": [
+    100000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "cashback",
+     "rate": 0.3,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "subscription"
+     ],
+     "type": "cashback",
+     "rate": 30,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "cashback",
+     "rate": 30,
+     "cap": 10000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "ibk-kpass-credit",
+   "name": "K-패스 (신용)",
+   "issuer": "IBK기업은행",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    200000,
+    500000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "taxi"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 3,
+     "cap": 1200,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "dining"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 10000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "nh-kpass-check",
+   "name": "K-패스카드(체크)",
+   "issuer": "NH농협카드",
+   "color": "#1E293B",
+   "kind": "check",
+   "tiers": [
+    200000,
+    800000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "transit"
+     ],
+     "type": "cashback",
+     "rate": 10,
+     "cap": 3000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "cashback",
+     "rate": 5,
+     "cap": 3000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "cafe"
+     ],
+     "type": "cashback",
+     "rate": 5,
+     "cap": 2000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "convenience"
+     ],
+     "type": "cashback",
+     "rate": 5,
+     "cap": 1000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "woori-oha-check",
+   "name": "카드의정석 오하CHECK",
+   "issuer": "우리카드",
+   "color": "#1E293B",
+   "kind": "check",
+   "tiers": [
+    200000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "cashback",
+     "rate": 5,
+     "cap": 2000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "cafe"
+     ],
+     "type": "cashback",
+     "rate": 5,
+     "cap": 2000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "transit"
+     ],
+     "type": "cashback",
+     "rate": 5,
+     "cap": 2000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "cashback",
+     "rate": 5,
+     "cap": 2000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "naverpay-money-card",
+   "name": "네이버페이 머니카드",
+   "issuer": "네이버페이",
+   "color": "#1E293B",
+   "kind": "check",
+   "tiers": [],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 0.3,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "point",
+     "rate": 1.5,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "overseas"
+     ],
+     "type": "point",
+     "rate": 2,
+     "cap": null,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "hana-jade-classic",
+   "name": "JADE Classic",
+   "issuer": "하나카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    500000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 1,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "subscription"
+     ],
+     "type": "point",
+     "rate": 50,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "cafe"
+     ],
+     "type": "point",
+     "rate": 50,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "taxi"
+     ],
+     "type": "point",
+     "rate": 50,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "hyundai-amex-gold-edition2",
+   "name": "American Express® Gold Card Edition2",
+   "issuer": "현대카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    500000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 0.1,
+     "cap": null,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "overseas",
+      "travel"
+     ],
+     "type": "point",
+     "rate": 0.3,
+     "cap": null,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "shinhan-sol-travel-check",
+   "name": "신한카드 SOL트래블 체크",
+   "issuer": "신한카드",
+   "color": "#2252FF",
+   "kind": "check",
+   "tiers": [
+    300000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 3000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "transit"
+     ],
+     "type": "discount",
+     "rate": 1,
+     "cap": 3000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "overseas",
+      "transit"
+     ],
+     "type": "discount",
+     "rate": 1,
+     "cap": 3000,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "kpass-shinhan-check",
+   "name": "K-패스 신한카드 체크",
+   "issuer": "신한카드",
+   "color": "#2252FF",
+   "kind": "check",
+   "tiers": [
+    200000,
+    500000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "transit"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 2000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "discount",
+     "rate": 2,
+     "cap": 2000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "convenience",
+      "cafe",
+      "dining"
+     ],
+     "type": "discount",
+     "rate": 2,
+     "cap": 2000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "medical",
+      "subscription"
+     ],
+     "type": "discount",
+     "rate": 2,
+     "cap": 2000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "hyundai-koreanair-300",
+   "name": "대한항공카드 300",
+   "issuer": "현대카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    500000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 0.1,
+     "cap": null,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "travel",
+      "overseas"
+     ],
+     "type": "point",
+     "rate": 0.3,
+     "cap": null,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "hyundai-koreanair-first-edition2",
+   "name": "대한항공카드 the First Edition2",
+   "issuer": "현대카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    500000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 0.1,
+     "cap": null,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "travel"
+     ],
+     "type": "point",
+     "rate": 0.5,
+     "cap": null,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "overseas"
+     ],
+     "type": "point",
+     "rate": 0.3,
+     "cap": null,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "kbank-one-check",
+   "name": "ONE 체크카드",
+   "issuer": "케이뱅크",
+   "color": "#1E293B",
+   "kind": "check",
+   "tiers": [],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "cashback",
+     "rate": 0.5,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "cashback",
+     "rate": 1,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "cafe",
+      "convenience",
+      "dining",
+      "subscription"
+     ],
+     "type": "cashback",
+     "rate": 5,
+     "cap": 25000,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "shinhan-cheoeum-anniverse",
+   "name": "신한카드 처음(ANNIVERSE)",
+   "issuer": "신한카드",
+   "color": "#2252FF",
+   "kind": "credit",
+   "tiers": [
+    300000,
+    500000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "dining",
+      "cafe",
+      "convenience",
+      "online"
+     ],
+     "type": "point",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "taxi",
+      "travel",
+      "overseas"
+     ],
+     "type": "point",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "point",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "subscription"
+     ],
+     "type": "point",
+     "rate": 15,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "shinhan-deep-dream-check",
+   "name": "신한카드 Deep Dream 체크",
+   "issuer": "신한카드",
+   "color": "#2252FF",
+   "kind": "check",
+   "tiers": [
+    200000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 0.2,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "grocery",
+      "convenience",
+      "cafe",
+      "telecom"
+     ],
+     "type": "point",
+     "rate": 0.6,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "shinhan-discount-plan-plus",
+   "name": "신한카드 Discount Plan+",
+   "issuer": "신한카드",
+   "color": "#2252FF",
+   "kind": "credit",
+   "tiers": [
+    400000,
+    800000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "cafe",
+      "dining",
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "grocery",
+      "online"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 15000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "fuel",
+      "taxi"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 15000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "classy-travel-card",
+   "name": "클래시 트래블카드",
+   "issuer": "NH농협카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    1000000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 1.2,
+     "cap": 100000,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "overseas"
+     ],
+     "type": "point",
+     "rate": 3,
+     "cap": 100000,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "kb-teenup-check-card",
+   "name": "KB 틴업 체크카드",
+   "issuer": "KB국민카드",
+   "color": "#FFC800",
+   "kind": "check",
+   "tiers": [
+    100000,
+    200000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "discount",
+     "rate": 2,
+     "cap": 5000,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 1000,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "etc"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 1000,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "dining"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 3000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "alphabet-card-d",
+   "name": "알파벳카드D",
+   "issuer": "현대카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    400000,
+    800000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "dining"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "cafe",
+      "convenience",
+      "transit"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "alphabet-card-s",
+   "name": "알파벳카드S",
+   "issuer": "현대카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    400000,
+    800000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "online",
+      "grocery"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "cafe",
+      "convenience",
+      "transit"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "samsung-id-select-all",
+   "name": "삼성 iD SELECT ALL 카드",
+   "issuer": "삼성카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    400000,
+    800000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "discount",
+     "rate": 0.7,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 7000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "dining",
+      "convenience",
+      "grocery",
+      "fuel"
+     ],
+     "type": "discount",
+     "rate": 7,
+     "cap": 7000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "subscription"
+     ],
+     "type": "discount",
+     "rate": 50,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "samsung-id-select-on",
+   "name": "삼성 iD SELECT ON 카드",
+   "issuer": "삼성카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    300000,
+    600000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "dining"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "cafe",
+      "taxi"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "subscription"
+     ],
+     "type": "discount",
+     "rate": 50,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "the-id-1st",
+   "name": "THE iD. 1st",
+   "issuer": "삼성카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    500000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 1,
+     "cap": null,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "dining",
+      "convenience",
+      "cafe",
+      "medical"
+     ],
+     "type": "point",
+     "rate": 1.5,
+     "cap": null,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "overseas"
+     ],
+     "type": "point",
+     "rate": 3,
+     "cap": null,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "kb-youth-club-check-card",
+   "name": "KB Youth Club 체크카드",
+   "issuer": "KB국민카드",
+   "color": "#FFC800",
+   "kind": "check",
+   "tiers": [
+    200000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "subscription"
+     ],
+     "type": "discount",
+     "rate": 50,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "taxi"
+     ],
+     "type": "discount",
+     "rate": 20,
+     "cap": 2000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 20,
+     "cap": 2000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 30,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "kb-you-prime-card",
+   "name": "KB YOU Prime 카드",
+   "issuer": "KB국민카드",
+   "color": "#FFC800",
+   "kind": "credit",
+   "tiers": [
+    400000,
+    800000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "fuel"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "hana-narasarang-card",
+   "name": "하나 나라사랑카드",
+   "issuer": "하나카드",
+   "color": "#1E293B",
+   "kind": "check",
+   "tiers": [
+    100000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "cashback",
+     "rate": 20,
+     "cap": 3000,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "transit"
+     ],
+     "type": "cashback",
+     "rate": 20,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "cafe"
+     ],
+     "type": "cashback",
+     "rate": 20,
+     "cap": null,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "dining"
+     ],
+     "type": "cashback",
+     "rate": 5,
+     "cap": 2000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "kb-need-pay-card",
+   "name": "KB NEED Pay 카드",
+   "issuer": "KB국민카드",
+   "color": "#FFC800",
+   "kind": "credit",
+   "tiers": [
+    400000,
+    800000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "discount",
+     "rate": 15,
+     "cap": 15000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "subscription"
+     ],
+     "type": "discount",
+     "rate": 30,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "overseas"
+     ],
+     "type": "discount",
+     "rate": 2,
+     "cap": null,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "alphabet-card-b",
+   "name": "알파벳카드B",
+   "issuer": "현대카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    400000,
+    800000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "etc"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "cafe",
+      "convenience",
+      "transit"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "alphabet-card-r",
+   "name": "알파벳카드R",
+   "issuer": "현대카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    400000,
+    800000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "telecom",
+      "subscription"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "cafe",
+      "convenience",
+      "transit"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "kb-you-wish",
+   "name": "KB YOU Wish 카드",
+   "issuer": "KB국민카드",
+   "color": "#FFC800",
+   "kind": "credit",
+   "tiers": [
+    400000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "dining",
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "subscription"
+     ],
+     "type": "discount",
+     "rate": 30,
+     "cap": null,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "loca-likit-1-5",
+   "name": "LOCA LIKIT 1.5",
+   "issuer": "롯데카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "discount",
+     "rate": 0.8,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "overseas"
+     ],
+     "type": "discount",
+     "rate": 1.5,
+     "cap": null,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "jeongseok-2-super",
+   "name": "카드의정석2 SUPER",
+   "issuer": "우리카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [],
+   "benefits": [
+    {
+     "categories": [
+      "all",
+      "overseas"
+     ],
+     "type": "discount",
+     "rate": 2,
+     "cap": 100000,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "samsung-id-select-up",
+   "name": "삼성 iD SELECT UP 카드",
+   "issuer": "삼성카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    500000,
+    1000000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "discount",
+     "rate": 0.5,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "grocery",
+      "online"
+     ],
+     "type": "discount",
+     "rate": 1,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "travel",
+      "culture"
+     ],
+     "type": "discount",
+     "rate": 2,
+     "cap": 500000,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "fuel",
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 7000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "loca-likit-2-0",
+   "name": "LOCA LIKIT 2.0",
+   "issuer": "롯데카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "discount",
+     "rate": 1.2,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "overseas"
+     ],
+     "type": "discount",
+     "rate": 2,
+     "cap": null,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "shinhan-deep-oil",
+   "name": "신한카드 Deep Oil",
+   "issuer": "신한카드",
+   "color": "#2252FF",
+   "kind": "credit",
+   "tiers": [
+    300000,
+    700000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "fuel"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 15000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 7500,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "cafe"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 7500,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "taxi"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 7500,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "kakaobank-friends-check",
+   "name": "카카오뱅크 프렌즈 체크카드",
+   "issuer": "카카오뱅크",
+   "color": "#1E293B",
+   "kind": "check",
+   "tiers": [],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "cashback",
+     "rate": 0.2,
+     "cap": null,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "samsung-mileage-platinum-skypass",
+   "name": "삼성카드 & MILEAGE PLATINUM (스카이패스)",
+   "issuer": "삼성카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [],
+   "benefits": [
+    {
+     "categories": [
+      "all"
+     ],
+     "type": "point",
+     "rate": 0.1,
+     "cap": null,
+     "tier": 0
+    },
+    {
+     "categories": [
+      "fuel",
+      "cafe",
+      "convenience",
+      "taxi"
+     ],
+     "type": "point",
+     "rate": 0.2,
+     "cap": null,
+     "tier": 0
+    }
+   ]
+  },
+  {
+   "id": "samsung-taptap-o",
+   "name": "삼성카드 taptap O",
+   "issuer": "삼성카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    300000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "cafe"
+     ],
+     "type": "discount",
+     "rate": 30,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "online"
+     ],
+     "type": "discount",
+     "rate": 7,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "transit",
+      "taxi"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  },
+  {
+   "id": "olbareun-flex",
+   "name": "올바른 FLEX 카드",
+   "issuer": "NH농협카드",
+   "color": "#1E293B",
+   "kind": "credit",
+   "tiers": [
+    300000
+   ],
+   "benefits": [
+    {
+     "categories": [
+      "cafe"
+     ],
+     "type": "discount",
+     "rate": 50,
+     "cap": 10000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "transit",
+      "telecom"
+     ],
+     "type": "discount",
+     "rate": 7,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "online",
+      "convenience"
+     ],
+     "type": "discount",
+     "rate": 5,
+     "cap": 5000,
+     "tier": 1
+    },
+    {
+     "categories": [
+      "dining"
+     ],
+     "type": "discount",
+     "rate": 10,
+     "cap": 5000,
+     "tier": 1
+    }
+   ]
+  }
+ ]
+}
